@@ -6,7 +6,7 @@ if  salario<=280:
 elif salario >280 and salario <=700:
     print("Novo salário:" ,round (salario*1.15,2))
 
-elif salario >700 and salario<=1500:
+elif salario >700 and salario<=1500: #Comentário Teste
     print("Novo salário:" ,round (salario*1.10,2))
 
 
